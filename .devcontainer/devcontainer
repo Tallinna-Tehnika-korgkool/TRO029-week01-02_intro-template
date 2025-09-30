@@ -1,7 +1,7 @@
 {
   "name": "ROS 2 Humble Container",
   "build": {
-    "dockerfile": "../ros2_docker/Dockerfile",
+    "dockerfile": "../docker/Dockerfile",
     "context": ".."
   },
   "settings": {
